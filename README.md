@@ -2,4 +2,4 @@
 this is my first repo on github
 <br>
 so i have updated this file
-author - ayush parwal
+author - ayush parwal(science student)
